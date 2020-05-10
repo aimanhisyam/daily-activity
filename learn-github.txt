@@ -1,4 +1,6 @@
 Learn Github
 - Learn Github Concept
 - Learn to create repository
+  * create activity repo
 - Learn to create file & commit
+  * create activity.txt file
