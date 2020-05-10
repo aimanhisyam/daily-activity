@@ -4,4 +4,7 @@ Learn Github
   * create activity repo
 - Learn to create file & commit
   * create activity.txt file
+    # create saturday activity
+    # add saturday activity
+    # add read article in Kurio apps
 - Learn Branch in Github
